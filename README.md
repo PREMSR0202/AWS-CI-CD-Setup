@@ -6,7 +6,7 @@ CI/CD is a method to frequently deliver apps to customers by introducing automat
 
 ## ARCHITECTURE
 
-
+![alt](https://github.com/PREMSR0202/AWS-CI-CD-Setup/blob/master/Images/GitHub.jpeg?raw=true)
 
 ## AWS SERVICES
 
