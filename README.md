@@ -8,6 +8,10 @@ CI/CD is a method to frequently deliver apps to customers by introducing automat
 
 ![alt](https://github.com/PREMSR0202/AWS-CI-CD-Setup/blob/master/Images/GitHub.jpeg?raw=true)
 
+## GOALS
+
+The Project Goal is to create a Code Pipeline in AWS for Node-JS Application.
+
 ## AWS SERVICES
 
 * [AWS CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)
@@ -18,7 +22,6 @@ CI/CD is a method to frequently deliver apps to customers by introducing automat
 * [AWS ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)
 * [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
-
 
 
 
