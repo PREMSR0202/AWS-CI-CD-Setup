@@ -43,4 +43,5 @@ CI/CD is a method to frequently deliver apps to customers by introducing automat
    * [AWSCODEDEPLOYROLEFORECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/codedeploy_IAM_role.html)
    * [AWSCODEPIPELINEROLE](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-create-service-role.html)
 
-
+## CODE-PIPELINE OUTPUT
+![ALT](https://github.com/PREMSR0202/AWS-CI-CD-Setup/blob/master/Images/codepipeline.png)
